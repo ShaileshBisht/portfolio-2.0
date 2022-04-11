@@ -12,8 +12,6 @@ function App() {
       <Skills />
       <Testimonial />
       <Footer />
-      <Footer />
-      <Footer />
     </div>
   );
 }
