@@ -26,6 +26,7 @@ import about04 from "../assets/about04.png";
 import profile from "../assets/profile.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
+import Shailesh1 from "../assets/Shailesh1.png";
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -62,6 +63,7 @@ export default {
   profile,
   circle,
   logo,
+  Shailesh1,
   adidas,
   amazon,
   asus,
